@@ -25,7 +25,7 @@ import javax.swing.plaf.FontUIResource;
 
 public class Main extends JFrame implements ActionListener {
 
-	public static String mainTitle = "DayZ K/D | v1.002";
+	public static String mainTitle = "This is a Test";
 
 	public JLabel killsLabel = new JLabel("Kills");
 	public JLabel deathsLabel = new JLabel("Deaths");
