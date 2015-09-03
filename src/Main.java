@@ -25,7 +25,7 @@ import javax.swing.plaf.FontUIResource;
 
 public class Main extends JFrame implements ActionListener {
 
-	public static String mainTitle = "This is a Test";
+	public static String mainTitle = "Kill Counter";
 
 	public JLabel killsLabel = new JLabel("Kills");
 	public JLabel deathsLabel = new JLabel("Deaths");
